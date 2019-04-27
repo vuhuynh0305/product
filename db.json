@@ -1,0 +1,11 @@
+{
+  products: [
+    { id: 1,
+      name: 'Medavac Survival Kit',
+      type: 'Camping Gear',
+      status: 'In stock',
+      price: 14.99,
+      description: 'Comes in a waterproof case. Includes fire starter, compass, wire saw, emergency whistle, can opener, suture thread and needle, bandages and more!'
+    }
+  ]
+}

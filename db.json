@@ -2,7 +2,7 @@
   "user": {
     "id": 1,
     "username": "vuhuynh0305",
-    "password": 123456,
+    "password": "phivu0305",
     "token": "fake-jwt-token"
   },
   "products": [

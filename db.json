@@ -1,10 +1,10 @@
 {
-  "user": {
+  "users": [{
     "id": 1,
     "username": "vuhuynh0305",
     "password": "phivu0305",
     "token": "fake-jwt-token"
-  },
+  }],
   "products": [
     { "id": 1,
       "name": "Medavac Survival Kit",

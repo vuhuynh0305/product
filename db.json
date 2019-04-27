@@ -1,11 +1,4 @@
 {
-  "users": [{
-    "id": 1,
-    "username": "vuhuynh0305",
-    "password": "phivu0305",
-    "age": 24,
-    "token": "fake-jwt-token"
-  }],
   "products": [
     { "id": 1,
       "name": "Medavac Survival Kit",
